@@ -1,5 +1,5 @@
 <?php
 echo "hello";
-echo "hw ru?";
-echo "\n";
+echo "hw ru?"
+  echo "haii";
 ?>
